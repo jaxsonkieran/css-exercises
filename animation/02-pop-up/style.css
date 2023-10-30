@@ -41,6 +41,7 @@ button {
   text-align: center;
 }
 
+
 .popup-modal p {
   margin-bottom: 24px;
 }
@@ -56,8 +57,15 @@ button {
 .popup-modal.show {
   opacity: 100%;
   pointer-events: all;
+
 }
 
 .backdrop.show {
   opacity: 30%;
 }
+
+.popup-modal {
+  
+}
+
+
