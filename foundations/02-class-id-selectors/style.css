@@ -1,0 +1,20 @@
+.paragraph,
+.paragraphsize {
+    background-color: lightcoral;
+    font-family:'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.paragraphsize {
+    font-size:32px;
+}
+
+#section {
+    font-size:36px;
+    color: blue;
+}
+
+#two {
+    font-weight: bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
